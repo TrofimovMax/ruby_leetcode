@@ -1,3 +1,10 @@
 *
 
-!*.rb
+.idea/.gitignore
+!.gitignore
+
+!*/
+
+!**/*.rb
+!**/*.md
+!**/*.json
