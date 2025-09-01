@@ -1,0 +1,14 @@
+{
+  "ex_1": {
+    "haystack": "sadbutsad",
+    "needle": "sad"
+  },
+  "ex_2": {
+    "haystack": "leetcode",
+    "needle": "leeto"
+  },
+  "ex_3": {
+    "haystack": "a",
+    "needle": "a"
+  }
+}
