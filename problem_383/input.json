@@ -1,0 +1,14 @@
+{
+  "ex_1": {
+    "ransom_note": "a",
+    "magazine": "b"
+  },
+  "ex_2": {
+    "ransom_note": "aa",
+    "magazine": "ab"
+  },
+  "ex_3": {
+    "ransom_note": "ab",
+    "magazine": "aab"
+  }
+}
