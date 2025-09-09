@@ -1,0 +1,22 @@
+{
+  "ex_1": {
+    "s": "egg",
+    "t": "add"
+  },
+  "ex_2": {
+    "s": "foo",
+    "t": "bar"
+  },
+  "ex_3": {
+    "s": "paper",
+    "t": "title"
+  },
+  "ex_4": {
+    "s": "bbbaaaba",
+    "t": "aaabbbba"
+  },
+  "ex_5": {
+    "s": "badc",
+    "t": "baba"
+  }
+}
