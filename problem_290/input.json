@@ -1,0 +1,18 @@
+{
+  "ex_1": {
+    "pattern": "abba",
+    "s": "dog cat cat dog"
+  },
+  "ex_2": {
+    "pattern": "abba",
+    "s": "dog cat cat fish"
+  },
+  "ex_3": {
+    "pattern": "aaaa",
+    "s": "dog cat cat dog"
+  },
+  "ex_4": {
+    "pattern": "aaa",
+    "s": "aa aa aa aa"
+  }
+}
