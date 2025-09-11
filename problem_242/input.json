@@ -1,0 +1,10 @@
+{
+  "ex_1": {
+    "s": "anagram",
+    "t": "nagaram"
+  },
+  "ex_2": {
+    "s": "rat",
+    "t": "car"
+  }
+}
