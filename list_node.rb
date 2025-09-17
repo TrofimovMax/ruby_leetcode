@@ -7,7 +7,7 @@ class ListNode
     @next = nil
   end
 
-  def self.build(values, pos)
+  def self.build(values, pos = -1)
     return nil if values.empty?
 
     head = ListNode.new(values[0])
