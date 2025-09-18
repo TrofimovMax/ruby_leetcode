@@ -1,0 +1,14 @@
+{
+  "ex_1": {
+    "root": [5,4,8,11,null,13,4,7,2,null,null,null,1],
+    "target_sum": 22
+  },
+  "ex_2": {
+    "root": [1,2,3],
+    "target_sum": 5
+  },
+  "ex_3": {
+    "root": [],
+    "target_sum": 0
+  }
+}
